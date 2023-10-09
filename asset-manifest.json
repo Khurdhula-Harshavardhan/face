@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/face-expression/static/css/main.04334832.css",
+    "main.js": "/face-expression/static/js/main.bbf6c529.js",
+    "static/js/787.56fd61e7.chunk.js": "/face-expression/static/js/787.56fd61e7.chunk.js",
+    "index.html": "/face-expression/index.html",
+    "main.04334832.css.map": "/face-expression/static/css/main.04334832.css.map",
+    "main.bbf6c529.js.map": "/face-expression/static/js/main.bbf6c529.js.map",
+    "787.56fd61e7.chunk.js.map": "/face-expression/static/js/787.56fd61e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04334832.css",
+    "static/js/main.bbf6c529.js"
+  ]
+}
